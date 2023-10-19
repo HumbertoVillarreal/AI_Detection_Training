@@ -1,0 +1,7 @@
+path: C:\Users\m2306017\Desktop\Pruebas\Python\AI_Detection_Training\dataset\
+train: images
+val:  images
+
+# Classes
+names:
+  #0: Hat
